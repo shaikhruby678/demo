@@ -1,3 +1,5 @@
 # demo
 learning git
-Author - Ruby Shaikh
+<br>
+Author - Ruby Rehman Shaikh
+<br>
